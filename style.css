@@ -1,0 +1,36 @@
+* {
+    text-align: center;
+    margin: 10px auto;
+    font-size: 20px;
+    border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.up {
+    font-size: 50px;
+    width: 100px;
+    height: 100px;
+    border-top: 1px solid black;
+}
+.center {
+    font-size: 50px;
+    width: 100px;
+    height: 100px;
+}
+.bottom {
+    font-size: 50px;
+    width: 100px;
+    height: 100px;
+    border-bottom: 1px solid black;
+}
+.left {
+    font-size: 50px;
+    width: 100px;
+    height: 100px;
+    border-left: 1px solid black;
+}
+.right {
+    font-size: 50px;
+    width: 100px;
+    height: 100px;
+    border-right: 1px solid black;
+}
